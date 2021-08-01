@@ -17,4 +17,4 @@ All the problems, algorithms, theories and proofs discussed during the weekly me
 ## Self Notes
 Weekly tasks given to me during the fellowship and my project related self learning are all noted down in **Self_Notes.pdf** file. 
 
-*Note: All the methods, algorithms and problems that are briefly explained in the **Project_Report.pdf** are explained in depth in in **Meeting_Notes.pdf** and **Self_Notes.pdf** files. The algorithms and their respective examples that have been mentioned in **Project_Report.pdf** have been coded out and stored in **Codes** folder.*
+*Note: All the methods, algorithms and problems that are briefly explained in the **Project_Report.pdf** are explained in depth in  **Meeting_Notes.pdf** and **Self_Notes.pdf** files. The algorithms and their respective examples that have been mentioned in **Project_Report.pdf** have been coded out and stored in **Codes** folder.*
