@@ -2,7 +2,7 @@
 
 Repository for Project through Summer Reseach Fellowship Programme-2021.
 
-## Project_Report
+## Project Report
 
 The complete project report, which is a chronological summary of everything learnt, discussed and worked upon, is stored in **Project_Report.pdf** file.
 
