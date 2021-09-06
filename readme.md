@@ -1,4 +1,4 @@
-#“Different methods of estimation and their applications
+# Different methods of estimation and their applications
 
 Repository for Project through Summer Research Fellowship Programme-2021.
 
